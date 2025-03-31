@@ -1,5 +1,5 @@
 import unittest
-from window import Maze
+from maze import Maze
 
 
 class Tests(unittest.TestCase):
